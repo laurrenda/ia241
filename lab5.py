@@ -53,3 +53,6 @@ elif age >10:
     print('you are a teenager')
 else:
     print('you are a kid')
+
+for i in range(5):
+    print(i)
